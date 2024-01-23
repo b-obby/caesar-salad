@@ -2,7 +2,7 @@
 A Caesar Cipher encryption and decryption tool created with Python
  
 
->### Before creating the tool, it is imporatant to understand what a Ceasar Cipher even is.
+### Before creating the tool, it is imporatant to understand what a Ceasar Cipher even is.
 >
 >A **Caesar Cipher** is when the letters of the alphabet are shifted left or right by n places. 
 >* For example, the default english alphabet starts with `abcd...` 
