@@ -14,11 +14,13 @@ A Caesar Cipher encryption and decryption script created with Python
 >
 >While this iteration was simple to manually encrypt, ceasar shifts can get with longer pieces of plaintext and with shifts larger than n = 1. 
 
-### I will be creating two different scripts:
+### I have created two different scripts:
 * An encryption tool
 * A brute-force decryption tool
 
+> As these scripts are very simple, the plaintext / ciphertext must be hard-coded by the user per-use.
+
 ### Optional Extra-Credit To-Do's
-- [ ] Agregate both functionalities into a singular script featuring a pop up GUI of sorts. 
-- [ ] Create a bash supported version where users could either decrypt or brute through a terminal by passing parameters such as `caesar-salad -plaintext "I LOVE BEANS" -key 2` or `caesar-salad -brute "J MPWF CFBOT"` 
+- [ ] Agregate both functionalities into a singular script featuring a pop up GUI of sorts so inputs do not have to be hard-coded each time. 
+- [ ] Create a bash version where users could either decrypt or brute through a terminal by passing parameters in the command line such as `caesar-salad -plaintext "I LOVE BEANS" -key 2` or `caesar-salad -brute "J MPWF CFBOT"` 
 
